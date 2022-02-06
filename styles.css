@@ -1,0 +1,11 @@
+
+        #zoom-img {
+            position: relative;
+            top: 0;
+            left: 0;
+            width: 3100px;
+            height: 10000px;
+            background: url("ldt.png");
+            background-position: auto;
+            background-size: auto;
+        }
